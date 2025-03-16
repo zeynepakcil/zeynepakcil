@@ -1,7 +1,7 @@
-About Me:
+Hi, I'm Zeynep:
 
-- 🔭 I’m a freshman student at Bilkent University.
-- 🌱 My department is electrical electronics engineering.
-- 👯 I’m interested in software development also. Currently I am working on Java and Python.
-- 📫 My personal e-mail address: zeynepakcil@gmail.com & School e-mail: zeynep.akcil@ug.bilkent.edu.tr
+- 🔭 I’m a 4th year electrical electronics engineering student at Bilkent University
+- 🌱 I’m interested in hardware acceleration and embedded AI
+- 📫 You can contact me via: zeynepakcil@gmail.com
+  
 
